@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sofiaarguello
-- 👀 I’m interested in be a software developer
+- 👀 I’m interested in be a full stack developer
 - 🌱 I’m currently learning concepts of javascript, html and css, java, mysql
 - 💞️ I’m looking to collaborate on jr developer jobs in any company, mainly from Spain
 - 📫 How to reach me via mail or on my Linkedin profile https://www.linkedin.com/in/sofia-arg%C3%BCello-b74003165/
